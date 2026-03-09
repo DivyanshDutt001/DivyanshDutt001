@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Divyansh Dutt </h1>
 <h3 align="center">B.Tech Student | AI & Data Science Enthusiast | Java Developer</h3>
 
